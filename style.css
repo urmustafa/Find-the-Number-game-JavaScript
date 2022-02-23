@@ -1,0 +1,91 @@
+ body {
+    background-image: linear-gradient(to bottom right, rgb(207, 135, 135), rgb(153, 187, 196));
+    height: 100vh;
+  }/*
+#ana{
+    width: 600px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+}
+
+#outputtext{
+    margin-left: 10%;
+    margin-right:10%;
+  }
+#container{
+    margin-left: 0%;
+    margin-right: 10%;
+    width: 50em;
+  }
+#user{
+    
+        margin-left: 5%;
+        margin-right:10%;
+      
+}
+#btn{
+    margin-left: -10%;
+    margin-right:10%;
+  }
+#title{
+    margin-left: -20%;
+    margin-right:10%;
+  }       */
+
+#ana{
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 24px;
+}
+input{
+    width: 250px;
+    height: 25px;
+    margin: 25px auto;
+    margin-left: 16%;
+    margin-right:0.5%;
+    border-radius: 5px;
+}
+.btn{
+    width: 100px;
+    height: 31px;
+    margin: 25px auto;
+    background-color: rgb(226, 228, 128);
+    border-radius: 5px;
+}
+#gif{
+    margin: 300px;
+    margin-left: 250px; 
+    /* margin: auto; */
+    display: none;
+}
+#out{
+    margin: 25px auto;
+    margin-left: 2%;
+    font-size: 20px;
+    color: rgb(49, 33, 196);
+    /* transition:all 20s; */
+}
+#count{
+    margin: 25px;
+    margin-left: 2%;
+    font-size: 20px;
+    color: rgb(19, 20, 9);
+}
+#mus{
+    
+    width: 30px;
+    height: 40px;
+    margin: 0;
+    display:none;
+    
+}
+#out1{
+    margin-left: 10;
+    
+}
